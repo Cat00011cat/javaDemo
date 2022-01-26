@@ -1,18 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9439dceb-e1c5-41cc-9cd8-831f72621c33" name="Default Changelist" comment="" />
+    <list default="true" id="9439dceb-e1c5-41cc-9cd8-831f72621c33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Demo1.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="23ae6sp9vPxynjujxyLI0woUCDu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -26,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo1">
+  <component name="RunManager" selected="Application.demo3">
     <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo1" />
       <module name="HelloWorld" />
@@ -41,10 +67,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo2" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo3" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.Welcome" />
+      <item itemvalue="Application.demo2" />
+      <item itemvalue="Application.demo3" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.demo3" />
         <item itemvalue="Application.Welcome" />
+        <item itemvalue="Application.demo2" />
+        <item itemvalue="Application.Demo1" />
       </list>
     </recent_temporary>
   </component>
@@ -58,11 +106,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641976452282</updated>
-      <workItem from="1641976454791" duration="736000" />
+      <workItem from="1641976454791" duration="3724000" />
+      <workItem from="1641998567610" duration="2951000" />
+      <workItem from="1642001557610" duration="971000" />
+      <workItem from="1642006997201" duration="47000" />
+      <workItem from="1642141472247" duration="3683000" />
+      <workItem from="1642319295790" duration="4064000" />
+      <workItem from="1642350240955" duration="1037000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
